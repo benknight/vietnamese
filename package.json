@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "scripts": {
     "duplicates": "awk -F'-' '{print $1}' vocab.txt | sort | uniq -d",
-    "sort": "LC_ALL=vi_VN sort -f vocab.txt -o vocab.txt"
+    "sort": "node scripts/sort.js"
   }
 }
