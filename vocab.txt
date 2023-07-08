@@ -432,6 +432,7 @@ khỏi thối - keep the change
 khối lượng - mass
 không chịu làm - don't feel like doing
 không còn đầu óc để - to not feel like doing something
+không đều - erratic, irregular
 không gian - space, atmosphere
 không khí - air
 không lẽ học suốt đời - it doesn't make sense to study your whole life
@@ -445,6 +446,7 @@ kiên nhẫn - patient
 kiến thức - knowledge
 kiểu - style
 kinh nghiệm - experience
+kinh nguyệt, có kinh - period, menstruating
 kỳ cục - weird, strange, odd
 kỷ niệm - memory
 ký tên - to sign one's name
@@ -773,6 +775,7 @@ thất vọng - to be disappointed
 the - menthol flavor?
 thèm - to crave
 theo chiều từ A đến B - from A to B
+thề - to pledge, to vow, to swear
 thể hiện - A indicates/shows/proves B, to express, to display
 thế là - so
 thể thao - sports
