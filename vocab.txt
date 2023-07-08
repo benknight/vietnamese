@@ -29,11 +29,9 @@ bàn phím - keyboard
 bàn tán - chatter, whisper (group)
 bản thân - oneself (same as mình)
 bán thời gian - part time
-bang - state
 bang - state (like Maine)
 bằng lái xe - driver's license
 báo cáo - report, to report
-báo cáo - to report, report
 bao cao su - condom
 bảo hiểm - insurance
 bảo vệ - to protect
@@ -60,7 +58,6 @@ biết đâu - who knows
 biểu tượng - symbol, icon (computer)
 bình đẳng giới - gender equality
 bình tĩnh - calm, to calm down
-bình tĩnh - to be calm
 bít cửa - to lock or close a door (figurative)
 bộ - set
 bồ (người yêu) - boyfriend, girlfriend (colloquial)
@@ -70,7 +67,6 @@ bộ y tế - Ministry of Health
 bối cảnh - circumstances (Synonym: hoàn cảnh)
 bóng bàn - table tennis
 bong bóng - balloon
-bóng chày - baseball
 bóng chày - baseball
 bóng rổ - basketball
 bự - big
@@ -98,15 +94,13 @@ cái nôi - crib
 cái son - lipstick
 cái thắng - brakes
 cải thiện - to improve
-cải thiện - to improve
 cảm giác - feeling
 cảm kích - to appreciate
 cảm nhận - to sense, feel
 căn cứ vào - to base on
 cân nhắc - to consider
 cần thiết - necessary
-căng thẳng - stress
-căng thẳng - stressed
+căng thẳng - stress, stressedd
 cảnh - scene (film)
 cảnh quan - landscape
 Cạo râu - to shave (beard)
@@ -121,7 +115,6 @@ chấm - to dip
 chạm - to touch
 chậm chạp - slow
 chăm chỉ - hard, industrious
-chăm sóc - to care for
 chăm sóc - to take care of, attend to
 chặn đường - to block/stop someone on the road
 chân thành - sincere
@@ -139,10 +132,8 @@ chi tiêu - to spend (money)
 chia tay - to break up
 chiến tranh - war
 chính hãng - genuine
-chính hãng - genuine
 chinh phục - to conquer, to win over somebody
 chính tả - spelling
-chịu - to agree
 chịu - to withstand/tolerate
 chó sủa là chó không cắn - the dog the barks the loudest doesn't bite
 cho thấy - to show
@@ -165,7 +156,6 @@ Chung sống - to live with, cope
 chủng tộc - race (people)
 chuyên ngành - specialty, professional knowledge, university major
 chuyên nghiệp - professional
-chuyên nghiệp - professional (manner)
 cổ - old, ancient
 cơ bản - basic, fundamental
 có bầu, có thai - to be pregnant
@@ -184,11 +174,9 @@ công bằng - fair
 công nhận - to recognize; to accept
 công sức - effort
 công việc - job (career/business)
-cứ - to keep on (doing)
 cứ - to keep on (doing), to just
 cứ 10 người thì... - for every 10 people...
 Cứ chọn đại một cái đi! - just choose one randomly!
-cụ thể - specific
 cụ thể - specific, concrete
 cua - to take out a girl (slang)
 cực khổ - miserable
@@ -196,7 +184,6 @@ cực kỳ - extremely
 cùi bắp - bad, lousy (slang)
 cùn - to be blunt (e.g. knife)
 cúng - to pray, make an offering
-cung cấp - to supply, provide
 cung cấp - to supply, provide
 cũng như - as well as
 cũng tùy - it depends
@@ -206,12 +193,10 @@ cưỡi lạc đà - ride a camel
 cuốn hút - to fascinate
 đã - satisfied, pleasurable, cool (e.g. cái này đã lắm nè!)
 đá banh - soccer
-đa dạng - diversity
-đa dạng - variety
+đa dạng - diversity, variety
 đa số - majority
 đặc trưng - typical, speciality
 đại khái - in general
-đảm bảo - to guarantee
 đảm bảo - to guarantee, ensure
 đảm nhận - to assume responsibility of something
 dán - stick
@@ -242,24 +227,19 @@ dễ điên chưa? - are you crazy?
 dễ nhìn - good-looking
 dễ như ăn kẹo - easy as pie
 đề xuất - to propose, put forward, suggest
-đề xuất - to propose, to put forward
-đếm - to count
 đếm - to count
 đến lượt - wait your turn
 dẻo - flexible
 đẹp lão - to age gracefully
 dĩ nhiên - of course
-dĩ nhiên - of course
 đi phượt - travel by motorbike
 đi theo bờ biển - follow the coast
 dị ứng - allergy, to be allergic
-dịch vụ - service
 dịch vụ - service
 điện nước đầy đủ - sexy
 diễn sâu - fake posing
 diễn tả - to express
 điện thoại đổ chuông - the phone rings
-diện tích - area
 diện tích - surface area, area (geometry)
 điền vào chỗ trống - fill in the blanks
 diễn viên - actor
@@ -285,7 +265,6 @@ dời - to move, transfer, shift, reschedule
 đổi ý - to change one's mind
 đón - celebrate; welcome
 dọn ra - come out
-động cơ - engine, motive
 động cơ - motivation, engine
 đóng phim - to act in a movie
 động viên - to encourage
@@ -297,13 +276,10 @@ dự định - to intend; to plan
 dự đoán - to predict
 dù sao thì - anyway
 đua - race
-đưa - to give
-đưa - to hand something, to pass
-dựa - to lean
+đưa - to give, to hand something, to pass
 dựa - to lean on, stand against
 đứa con - child, offspring
 đua đòi - to imitate, to copy someone
-đựng - to hold, contain
 đựng - to hold, contain
 đứng lên - to stand up
 đứng tên - to put down ones name, cosign
@@ -318,8 +294,7 @@ Em đỡ chưa? - did you get better?
 ép - to force, pressure sbdy to do something
 gãi - to scratch
 ganh tị - jealous (envy)
-ghê - really (extremely)
-ghê - terrible, disgusting, scary, horrifying
+ghê - really (extremely), terrible, disgusting, scary, horrifying
 ghé - to drop by
 ghen - jealous (love)
 ghép - to joint, to connect
@@ -340,12 +315,10 @@ giấu - to hide something
 giấy dán tường - wallpaper
 giấy khám sức khỏe - health certificate, health report
 giấy tờ - document/form/papers
-giấy tờ - document/form/papers
 giỗ - death anniversary
 giơ - raise
 gió thổi - the wind blows
-giới thiệu - to introduce
-giới thiệu - to recommend
+giới thiệu - to introduce, to recommend
 giới tính - gender
 giọng - voice
 giọng địa phương - regional accent
@@ -354,12 +327,10 @@ gom - to gather
 gọn - neat, tidy (way of speaking)
 gọn gàng - neat
 gọn nhẹ - compact
-góp ý - to contribute comments
 góp ý - to suggest, contribute the idea
 gu - taste, preferences
 hại - to harm (hút thuốc có ... cho sức khoẻ)
 hài hoà - harmonious
-hài lòng - to be satisfied
 hài lòng - to be satisfied
 hạn chế - to limit, restrict
 Hán Việt - Sino-Vietnamese
@@ -370,7 +341,6 @@ hành lý - luggage
 hành vi - behavior, action
 hảo - to like a food
 hào hứng - excited
-hào hứng - excited
 hảo ngọt - to have a sweet tooth
 hấp dẫn - tempting
 hạt - seed, nut
@@ -379,16 +349,13 @@ hầu hết - almost all
 hẹn - appointment
 hiếm - rare
 hiện đại - modern
-hiện tại - currently
 hiện tại - present, currently
 hiệu quả - efective, effect
-hiệu quả - effective
 hình chữ nhật - rectangle
 hình dung - outer appearance
 hình tròn - circle
 hình vuông - square
-hoài - ceaselessly, always
-hoài - constantly
+hoài - ceaselessly, always, constantly
 hoãn - to delay, postpone
 hoàn cảnh - circumstances (of someone)
 hoàn hảo - perfect
@@ -397,7 +364,6 @@ hoạt động - activity, event
 học được - to have learned something
 học hỏi - to learn
 hội - an association (group)
-hôi - smelly
 hôi - smelly
 hối - to urge someone to do something
 hồi hộp - nervous (butterflies)
@@ -417,8 +383,7 @@ kéo lên, xuống - to scroll up/down
 kết - to be keen on / have a crush on someone
 kết quả - result, outcome
 khá - quite
-khả năng - ability, capability
-khả năng - ability, possibility
+khả năng - ability, capability, possibility
 khách hàng - customer
 khẳng định - to confirm
 khắp nơi - everywhere
@@ -448,7 +413,6 @@ khuyết điểm - đíavantage, weak point
 kích thước - size, dimensions
 kiểm tra - to test, examine
 kiên nhẫn - patient
-kiên nhẫn - patient
 kiến thức - knowledge
 kiểu - style
 kinh nghiệm - experience
@@ -465,7 +429,6 @@ làm sao hay vậy - how do you do that?
 làm tự do - freelance
 làm từ thiện - charity
 lần lượt - one after another
-lãng mạn - romantic
 lãng mạn - romantic
 lãng phí - to waste
 lành - heal
@@ -484,7 +447,6 @@ liên quan đến - concerned [with]; related [to]
 linh động - flexible (time)
 lỗ - hole
 loài - kind, species
-loài - kind, species
 loạt - bunch, series
 lời khuyên - advice
 lông - feather, fur, body hair
@@ -501,13 +463,11 @@ mắc cười - funny
 mắc ói - vomit
 mắc tè - have to pee
 mãi mãi - forever
-mai mốt - future
 mai mốt - in the future (sau này)
 màn hình - screen
 mang dép - wear flipflops
 mạng xã hội - social network
-mất công - complicated (too many steps)
-mất công - to waste time doing something
+mất công - complicated (too many steps), to waste time doing something
 mất dạy - (vulgar) Ill-bred, unmannerly, not classy
 mặt mũi - a persons look/countenance
 mặt trăng - moon
@@ -527,13 +487,11 @@ mỉm cười - a small smile
 mình đi nào - let's go!
 mổ - to operate
 mồ hôi - sweat
-mồ hôi - sweat
 mỡ trong máu - cholesterol
 mơ ước - dream, hope
 mộc - plain, natural (material)
 mọc - to grow (plants, hair), to rise (sun)
 mỏi - to be fatigued
-môi trường - environment
 môi trường - environment
 môn - subject
 mòn - worn out (shoes, wallet)
@@ -556,12 +514,10 @@ nảy ra một ý - to come across the mind
 nảy ra, nghĩ ra - to come up with
 nét (x có hai nét) - line, mark
 ngạc nhiên - to be surprised
-ngại - to feel reluctant
-ngại - to hesitate
+ngại - to feel reluctant, to hesitate
 ngán - sick of something (food)
 ngang qua - across
 ngành - major
-ngập - flood
 ngập - to flood
 ngắt - to interrupt
 ngắt câu - break up a sentence
@@ -571,9 +527,7 @@ ngây thơ - naive, innocent
 nghe lời đi - listen to me
 nghe máy, bắt máy - answer the phone
 nghĩ bụng - to tell oneself
-nghiêm trọng - serious
-nghiêm trọng - serious
-nghiêm trọng - serious; grave; critical
+nghiêm trọng - serious, grave, critical
 nghiêng - lean
 ngộ - curious, queer, interesting
 ngõ cụt - (noun) DEAD END, cul-de-sac; blind alley
@@ -591,7 +545,6 @@ ngừng lại - to stop
 ngược lại - on the contrary
 người dân - people
 người dân tộc - ethnic minorities
-người dân tộc - ethnic minorities
 người địa phương - local people
 người lao công - workers (like street sweepers)
 nguy cơ - risk, danger
@@ -606,8 +559,7 @@ nhạc cụ - musical instrument
 nhầm - to confuse
 nhầm lẫn - to be wrong, mistaken
 Nhắm mắt - close your eyes
-nhẫn - bitey like cheese
-nhẫn - bitter (overall flavor)
+nhẫn - bitey like cheese, bitter (overall flavor)
 nhân dịp - on the occasion of
 nhấn mạnh - to emphasize
 nhận ra - to realize
@@ -619,13 +571,10 @@ nhập - to enter, to join, to type on keyboard
 nhập khẩu - to import
 nhạt - bland, faded, tasteless
 nhiệt tình - enthusiastic
-nhiệt tình - enthusiastic
 nhiễu - to damage; to pester, trouble
 nhìn kĩ - look carefully
-nhờ - ask a favor
-nhờ - thanks to
+nhờ - ask a favor, thanks to
 nho nhỏ - tiny
-nhờ vs. nhỉ - nhờ only in north?
 nhóm - group
 nhốt - to confine, lock in/out
 nhu cầu - (noun) a need/demand
@@ -660,12 +609,10 @@ nứt - crack, break (e.g bone)
 ợ nóng - heartburn
 ớn - fed up
 ồn ào - noisy
-ồn ào - noisy
 ổn định - stable
 phạm pháp - illegal
 phân biệt - to distinguish
 phản đối - to oppose, disagree
-phát hiện ra - to discover
 phát hiện ra - to discover, find out
 phát minh - to invent
 phát triển - to develop
@@ -760,22 +707,18 @@ thách thức - challenge
 thai - fetus
 thậm - very, quite
 thậm chí - even
-thậm chí - even
 tham gia - to pảticipate, join, take part in
 thân - close (dear), body
-thân - dear (close)
 than phiền - to complain
 thắng - to win
 thanh địa chỉ - address bar
 thanh tìm kiếm - search bar
 thật sự - really
 thật thà - honest, truthful, sincere
-thất vọng - disappointed
 thất vọng - to be disappointed
 thay phiên - to take turns
 the - menthol flavor?
-thể hiện - A indicates, shows, proves B
-thể hiện - to express, display
+thể hiện - A indicates/shows/proves B, to express, to display
 thế là - so
 thể thao - sports
 thể tích - volume
@@ -824,8 +767,7 @@ tiêu hóa - digest
 tin nhắn - text message
 tin tưởng - to trust
 tỉnh - province
-tình cảm - sentiment, emotion, affection
-tình cảm - sentiment, emotion, feeling
+tình cảm - sentiment, emotion, affection, feeling
 tình cờ - by chance
 tính mạng - survival
 tỉnh rượu - to get sober
@@ -848,10 +790,8 @@ tôn trọng - (verb) to respect; to honour; to revere
 Tốt gỗ hơn tốt nước sơn - Beauty is on the inside
 trả góp - to pay by installments
 trách nhiệm - responsibility
-trách nhiệm - responsibility
 trại - camp
 trải - to spread something on a surface (eg table cloth)
-trải nghiệm - experience
 trải nghiệm - to experience something
 trái tim - heart (as in a set of emotions)
 trận đấu - match, game
@@ -956,7 +896,6 @@ y hệt, y chang - exactly the same
 ý tưởng - idea, thought
 yên bình - peaceful
 yên tâm - peace of mind
-yên tĩnh - quiet
-yên tĩnh - tranquil
+yên tĩnh - quiet, tranquil
 yêu cầu - to require
 yếu tố - key factor, element
