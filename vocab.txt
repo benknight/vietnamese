@@ -135,6 +135,7 @@ chậm chạp - slow
 chân thành - sincere
 chất dẻo - flexible material
 chất liệu - material (e.g. cotton)
+che - cover
 chế độ ăn - diet (eg vegetarian)
 chênh lệch - gap, difference
 chi nhánh - branch, franchise
@@ -308,6 +309,7 @@ dứt khoát - definitive, categorical, clear cut
 đua - race
 đua đòi - to imitate, to copy someone
 đuôi - tail
+Đụt lỗ - bore a hole (syn: khoan)
 đưa - to give, to hand something, to pass
 đứa con - child, offspring
 đựng - to hold, contain
@@ -426,6 +428,7 @@ khiêng - carry
 khó chịu - unpleasant, annoying
 khoa học máy tính - computer science
 khoái - to enjoy, to like (= thích)
+khoan đã - wait a second
 khoe - to brag, show off, boast
 khỏi - not necessary
 khỏi thối - keep the change
@@ -565,6 +568,7 @@ ngắt - to interrupt
 ngắt câu - break up a sentence
 ngập - to flood
 ngẫu hứng - last minute (person)
+ngẫu nhiên - (adj) to do randomly, by complete chance, no intention
 ngây thơ - naive, innocent
 nghe lời đi - listen to me
 nghe máy, bắt máy - answer the phone
@@ -633,6 +637,7 @@ nó không cần thiết - it's not necessary
 nói bậy - to swear (bad words)
 Nói trước, bước không qua - Don't speak too soon
 nóng chảy mỡ - really hot
+nô lệ - slave
 nổi - to float (on water), rise up, develop (pimples); synonym: mọc
 nội dung - content
 nội qui - rules
@@ -704,6 +709,7 @@ rổ - basket
 rối - confused, complicated
 rốt cuộc - finally, in the end, after all
 rơi - to fall; to drop
+rơi lệ - tears
 rút ra - to learn from
 sản phẩm - product
 sáng giờ - from morning to now
@@ -797,6 +803,7 @@ thợ may - tailor
 thời điểm - point in/of time, timing, date
 thời hạn - term, period
 thời trang - fashion
+thu hồi - to take back; to recover; to reclaim
 thu nhập - income
 thu phí - to charge a fee
 thua - to lose
