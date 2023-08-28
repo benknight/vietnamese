@@ -36,6 +36,7 @@ bang - state (like Maine)
 báo cáo - report, to report
 bao cao su - condom
 báo động - alarming
+bao gồm - includes (consisting of)
 bảo hiểm - insurance
 bảo thủ - conservative
 bảo vệ - to protect
@@ -47,6 +48,7 @@ bắt nạt - to bully
 bắt tay - to shake hands, to join hands with, to start
 bật - turn on
 bất kì - any
+bèo - duckweed
 béo phì - obesity
 bể - to break
 bển - that side (like ẻm, ảnh)
@@ -352,6 +354,7 @@ giấy tờ - document/form/papers
 gió thổi - the wind blows
 giọng - voice
 giọng địa phương - regional accent
+giọt mưa - rain drop
 giỗ - death anniversary
 giơ - raise
 giới thiệu - to introduce, to recommend
@@ -403,6 +406,7 @@ họng - throat
 hội - an association (group)
 hôi - smelly
 hối - to urge someone to do something
+hối hận - regret doing something
 hồi hộp - nervous (butterflies)
 hồi nãy - just now, a moment ago
 hồi xưa, ngày xưa - old days
@@ -481,6 +485,7 @@ lần lượt - one after another
 lập - to set up
 lập trình - program
 lập tức - immediately
+lật úp mặt xuống - flip
 lây - to be contagious
 lấy độc trị độc - fight fire with fire
 lẹ - hurry up, fast
@@ -560,6 +565,7 @@ nảy ra một ý - to come across the mind
 nảy ra, nghĩ ra - to come up with
 nắm - to hold; to grip; to grasp
 Nắm tay - to hold hands
+nặn mụn - pop a pimple
 năn nỉ - to beg
 năng động - dynamic, active
 nét (x có hai nét) - line, mark
@@ -708,6 +714,7 @@ quốc tế - international
 quốc tịch - nationality
 quý giá - precious
 quyền lợi - right, benefit
+quyến rũ - charming
 rách - torn
 rang - to roast
 rắc rối - trouble, difficulty, problem
@@ -718,6 +725,7 @@ rối - confused, complicated
 rốt cuộc - finally, in the end, after all
 rơi - to fall; to drop
 rơi lệ - tears
+rụng - shed (hair)
 rút ra - to learn from
 sản phẩm - product
 sáng giờ - from morning to now
@@ -817,6 +825,7 @@ thu nhập - income
 thu phí - to charge a fee
 thua - to lose
 thùng - case, box
+thủy triều - tide
 thử thách - to challenge
 thức ăn qua chế biến - processed foods
 thực hiện bởi ... với hỗ trợ - carried out by ... with support from
@@ -845,6 +854,7 @@ tiêu hóa - digest
 tin nhắn - text message
 tin tưởng - to trust
 tỉnh - province
+tính cả - includes (counting)
 tình cảm - sentiment, emotion, affection, feeling
 tình cờ - by chance
 tính mạng - survival
@@ -966,6 +976,7 @@ xi-nhan - blinker, signal (from French)
 xì-tai - style
 xì-trét - stress
 xía vô - to interfere
+xích (ra, xuống, vô, lên) - to move over a bit
 xỉu - to faint
 xu - penny
 xu hướng - trend
